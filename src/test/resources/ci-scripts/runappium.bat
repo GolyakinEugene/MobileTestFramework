@@ -1,0 +1,1 @@
+appium > E:\QA_DEV\JavaAppium\src\test\resources\ci-logs\jenkins_build_log_android_test_suite_start_appium.rtf &
